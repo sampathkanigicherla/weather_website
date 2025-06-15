@@ -1,0 +1,8 @@
+-> Go to Weatherapi.com 
+-> Create account and it will generate a verification mail.
+-> go to mail then click verification link. it redirects to weatherapi website. 
+-> login to your website. 
+-> go to dash board , copy the api key.
+-> go to api explorer 
+-> fill the details 
+->click show respose.
