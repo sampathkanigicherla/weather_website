@@ -1,0 +1,16 @@
+Note
+If you're facing issues like:
+
+Empty screen
+
+No data shown
+
+"City not found" error
+
+Make sure:
+
+You have pasted the correct API key
+
+Your system is connected to the internet
+
+You're using a live server (recommended) like Live Server in VS Code or python -m http.server
